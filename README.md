@@ -1,7 +1,8 @@
 # UVE-38K
 
-<img src="./imgs/G0024172-raw.gif" width="280"> <img src="./imgs/G0024172-ref.gif" width="280">
+<img src="./imgs/G0024172-raw.gif" width="400"> <img src="./imgs/G0024172-ref.gif" width="400">
 <img src="./imgs/Mobula15-raw.gif" width="400"> <img src="./imgs/Mobula15-ref.gif" width="400">
+<img src="./imgs/YDXJ0003-2-raw.gif" width="400"> <img src="./imgs/YDXJ0003-2-ref.gif" width="400">
 
 # Overview
 
