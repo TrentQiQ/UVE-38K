@@ -1,11 +1,11 @@
 # UVE-38K
 <center>marine_ranching_4</center>
 
-<img src="./imgs/YDXJ0003-2-raw.gif" width="400"> <img src="./imgs/YDXJ0003-2-ref.gif" width="400">
+<img src="./imgs/marine_ranching_4-raw.gif" width="400"> <img src="./imgs/marine_ranching_4-ref.gif" width="400">
 
 <center>shark</center>
 
-<img src="./imgs/Mobula15-raw.gif" width="400"> <img src="./imgs/Mobula15-ref.gif" width="400">
+<img src="./imgs/shark-raw.gif" width="400"> <img src="./imgs/shark-ref.gif" width="400">
 
 <center>dive</center>
 
