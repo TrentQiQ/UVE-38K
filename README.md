@@ -45,10 +45,28 @@ It includes:
 
 - Part Ⅰ [Baidu Cloud](https://pan.baidu.com/s/1YA86V9syGrfkAtW98l0ITg) (Extraction code: 9254)  [Google Drive](https://drive.google.com/drive/folders/10SZS2pegrpamNo6zVshlrJUUKYO99ibf?usp=sharing)
 
+# Contributors
+
+Yongchang Zhang, Kunqian Li, Qi Qi, Shaobao Hu and Fei Tian from Ocean University of China.
 
 # Note
 
-The whole dataset will be released soon.
+The whole dataset is available on request from the authors. If you find this dataset helpful, please cite the following works.
 
+```
+@article{qi2021underwater,
+  title={Underwater image co-enhancement with correlation feature matching and joint learning},
+  author={Qi, Qi and Zhang, Yongchang and Tian, Fei and Wu, QM Jonathan and Li, Kunqian and Luan, Xin and Song, Dalei},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2021},
+  publisher={IEEE}
+}
 
+@article{qi2022sguie,
+  title={SGUIE-Net: Semantic Attention Guided Underwater Image Enhancement with Multi-Scale Perception},
+  author={Qi, Qi and Li, Kunqian and Zheng, Haiyong and Gao, Xiang and Hou, Guojia and Sun, Kun},
+  journal={arXiv preprint arXiv:2201.02832},
+  year={2022}
+}
+```
 
